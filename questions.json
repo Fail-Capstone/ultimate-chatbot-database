@@ -1,0 +1,218 @@
+[{
+  "_id": {
+    "$oid": "61c32dc1f15852d8dea81718"
+  },
+  "tag": "loi_khong_vao_duoc_zoom_(id_invalid)",
+  "question": "lỗi không vào đưuọc sakai",
+  "prob": 0.2631156071496154
+},{
+  "_id": {
+    "$oid": "61c32dd8f15852d8dea8171a"
+  },
+  "tag": "khi_mydtu_bao_tri_thi_co_vao_sakai_duoc_khong",
+  "question": "cách vào elearning lúc bảo trì",
+  "prob": 0.7146880206033767
+},{
+  "_id": {
+    "$oid": "61c32dfdf15852d8dea8171c"
+  },
+  "tag": "khong_dang_nhap_duoc_vao_zoom",
+  "question": "cách đăng nhập vào sakai",
+  "prob": 0.3556984661472261
+},{
+  "_id": {
+    "$oid": "61c32ebbf15852d8dea8171e"
+  },
+  "tag": "loi_bi_thoat_moi_khi_save_bai",
+  "question": "mất bài sau khi submit",
+  "prob": 0.7473055768812856
+},{
+  "_id": {
+    "$oid": "61c32ec6f15852d8dea81720"
+  },
+  "tag": "submit_mat_bai",
+  "question": "save bài thì mất bài",
+  "prob": 0.6914290007615002
+},{
+  "_id": {
+    "$oid": "61c32efef15852d8dea81722"
+  },
+  "tag": "",
+  "question": "khung câu hỏi bị thu nhỏ",
+  "prob": 0.44815950874486465
+},{
+  "_id": {
+    "$oid": "61c32f7ef15852d8dea81724"
+  },
+  "tag": "khong_vao_duoc_test/quizz",
+  "question": "không vào được test",
+  "prob": 0.42075465988021205
+},{
+  "_id": {
+    "$oid": "61c32f89f15852d8dea81726"
+  },
+  "tag": "khong_vao_duoc_test/quizz",
+  "question": "quiz không laod được",
+  "prob": 0.7655261842833164
+},{
+  "_id": {
+    "$oid": "61c33002f15852d8dea81728"
+  },
+  "tag": "dang_ki_duoc_tin_chi_nhung_khong_thay_lich_hoc",
+  "question": "lịch học xếp bị trùng",
+  "prob": 0.7079861558702886
+},{
+  "_id": {
+    "$oid": "61c3301df15852d8dea8172a"
+  },
+  "tag": "submit_mat_bai",
+  "question": "mất bài làm sau khi bấm save",
+  "prob": 0.15607943813300884
+},{
+  "_id": {
+    "$oid": "61c3302ef15852d8dea8172c"
+  },
+  "tag": "submit_mat_bai",
+  "question": "trắng bài sau khi bấm save",
+  "prob": 0.6327580533399265
+},{
+  "_id": {
+    "$oid": "61c3308bf15852d8dea8172f"
+  },
+  "tag": "loi_bi_thoat_khi_bam_next_nhanh",
+  "question": "bấm next khôkhoongad được câu hỏi",
+  "prob": 0.4715207874077367
+},{
+  "_id": {
+    "$oid": "61c330a4f15852d8dea81731"
+  },
+  "tag": "bam_next_bi_lap_lai_cau_cu,_reload_van_khong_duoc",
+  "question": "bấm next không load được câu tiếp theo",
+  "prob": 0.29288909532423085
+},{
+  "_id": {
+    "$oid": "61c330bcf15852d8dea81733"
+  },
+  "tag": "loi_bi_thoat_khi_bam_next_nhanh",
+  "question": "bấm next không được mà bấm previous cũng không được",
+  "prob": 0.6810839995951962
+},{
+  "_id": {
+    "$oid": "61c33283f15852d8dea81735"
+  },
+  "tag": "",
+  "question": "không load câu hỏi tiếp theo dược",
+  "prob": 0.3579330808770107
+},{
+  "_id": {
+    "$oid": "61c332a6f15852d8dea81737"
+  },
+  "tag": "",
+  "question": "có thể nộp bài nhiều lần khong",
+  "prob": 0.21826568885165112
+},{
+  "_id": {
+    "$oid": "61c333bff15852d8dea8173d"
+  },
+  "tag": "",
+  "question": "cài zoom bị lỗi",
+  "prob": 0.2003653193202636
+},{
+  "_id": {
+    "$oid": "61c333d1f15852d8dea8173f"
+  },
+  "tag": "",
+  "question": "không bật cam được trên điện thoại",
+  "prob": 0.34854751998133016
+},{
+  "_id": {
+    "$oid": "61c347802a4dfbf727970e54"
+  },
+  "tag": "",
+  "question": "không vào được sakai",
+  "prob": 0.3650959459539179
+},{
+  "_id": {
+    "$oid": "61c347c72a4dfbf727970e56"
+  },
+  "tag": "cach_cap_nhat_thong_tin_trong_mydtu",
+  "question": "thông tin cá nhân ở đâu",
+  "prob": 0.3137541015824953
+},{
+  "_id": {
+    "$oid": "61c347db2a4dfbf727970e58"
+  },
+  "tag": "so_tai_khoan_cua_truong",
+  "question": "thư viện nằm ở đâu của trường",
+  "prob": 0.6658614205381013
+},{
+  "_id": {
+    "$oid": "61c348032a4dfbf727970e5a"
+  },
+  "tag": "",
+  "question": "đánh giá một học sinh qua những gì",
+  "prob": 0.4507015397414954
+},{
+  "_id": {
+    "$oid": "61c348f02a4dfbf727970e5c"
+  },
+  "tag": "dang_ki_duoc_tin_chi_nhung_khong_thay_lich_hoc",
+  "question": "không xem được lịch học",
+  "prob": 0.49242386727471815
+},{
+  "_id": {
+    "$oid": "61c348fb2a4dfbf727970e5e"
+  },
+  "tag": "kiem_tra_tien_hoc_phi",
+  "question": "không xem được học phí",
+  "prob": 0.30711265876496746
+},{
+  "_id": {
+    "$oid": "61c3b66a688a579f13eccc2a"
+  },
+  "tag": "cach_chuyen_huong_email_dtu_sang_email_thuong",
+  "question": "điều hướng mail trường sang mail thường",
+  "prob": 0.4579988731410003
+},{
+  "_id": {
+    "$oid": "61c3b79c688a579f13eccc2c"
+  },
+  "tag": "cach_chuyen_huong_email_dtu_sang_email_thuong",
+  "question": "cách điều hướng mail trường sang mail thường",
+  "prob": 0.4579988731410003
+},{
+  "_id": {
+    "$oid": "61c3cbc4688a579f13eccc2e"
+  },
+  "tag": "tai_sao_share_man_hinh_ma_khong_nghe_tieng",
+  "question": "cách share tiếng mà hình",
+  "prob": 0.5381696145678072
+},{
+  "_id": {
+    "$oid": "61c3e330f1aa39f9547653df"
+  },
+  "tag": "khong_dang_nhap_duoc_vao_zoom",
+  "question": "không đăng nhập được elearning",
+  "prob": 0.6094546865693418
+},{
+  "_id": {
+    "$oid": "61c3e375f1aa39f9547653e1"
+  },
+  "tag": "",
+  "question": "không log in vào sakai",
+  "prob": 0.4701969211105265
+},{
+  "_id": {
+    "$oid": "61c3e3c6f1aa39f9547653e3"
+  },
+  "tag": "loi_bi_vang_khoi_phong_zoom",
+  "question": "myDTU và zoom bị lỗi âm thanh",
+  "prob": 0.15744761258284887
+},{
+  "_id": {
+    "$oid": "61c3e43bf1aa39f9547653e5"
+  },
+  "tag": "loi_khong_vao_duoc_zoom_(id_invalid)",
+  "question": "lỗi zoom không vào được",
+  "prob": 0.30596601573545923
+}]

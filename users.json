@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "619bd0e390a3454cc4140630"
+  },
+  "username": "admin",
+  "password": "$argon2i$v=19$m=4096,t=3,p=1$i7oNptpXi2YZ/TQdHqdWRg$ZMhnwQtwJEf7KSa29tyIxE1fEPg7+ifCdI2u0yhhZhU",
+  "createdAt": {
+    "$date": "2021-11-22T17:18:27.897Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-22T17:18:27.897Z"
+  },
+  "__v": 0
+}]
